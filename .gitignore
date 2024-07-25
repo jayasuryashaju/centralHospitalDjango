@@ -6,6 +6,10 @@ env/
 venv.bak/
 venv.bck/
 
+# media files
+
+uploads/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
